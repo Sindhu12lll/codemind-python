@@ -1,3 +1,3 @@
-import math 
-s=str(input())
-print(eval(s))
+import math
+a=str(input())
+print(eval(a))
