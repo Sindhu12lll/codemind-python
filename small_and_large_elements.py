@@ -1,0 +1,9 @@
+s=input()
+a=s.split()
+s1=a[0]
+s2=sorted(list(s1))
+p=s2[0]
+p1=a[-1]
+s3=sorted(list(p1))
+p2=s3[-1]
+print(p,p2)
